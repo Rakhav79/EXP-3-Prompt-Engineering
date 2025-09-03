@@ -21,7 +21,7 @@ Iterate and Refine: If the initial output is unsatisfactory, apply prompting bes
     Please act as a technical writer and summarize the following white paper. Focus on the key findings, potential impacts, and main challenges discussed. The summary should be a maximum of 300 words and be easy for a non-expert to understand.
    
 2.Claude (Claude 3 Opus):
-   Please act as a technical writer and summarize the following white paper. Focus on the key findings, potential impacts, and main challenges discussed. The summary should be a maximum of 300 words and be easy for a non-expert to understand.
+  Please act as a technical writer and summarize the following white paper. Focus on the key findings, potential impacts, and main challenges discussed. The summary           should be a maximum of 300 words and be easy for a non-expert to understand.
    
 3. Google Bard (Gemini Advanced)
    Please act as a technical writer and summarize the following white paper. Focus on the key findings, potential impacts, and main challenges discussed. The summary should be a maximum of 300 words and be easy for a non-expert to understand.
